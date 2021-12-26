@@ -1,0 +1,172 @@
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.Licensing.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.exe.licenses
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.csproj.CopyComplete
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.MusteriLogin.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.MusteriUrunler.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.MusteriMainMenu.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Proje.exe.config
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Proje.exe
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Proje.pdb
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.Licensing.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.MusteriLogin.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.MusteriMainMenu.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.MusteriUrunler.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.exe.licenses
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.csproj.CopyComplete
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.exe
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.pdb
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.AdminLogin.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.AdminMainMenu.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.AdminUrunler.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.MusteriSepetPaneli.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.OdemeSayfasi.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.MusteriBilgilerim.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.AcilisEkrani.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.KaydinizEklendi.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.MusteriKayit.resources
+C:\Users\yamya\OneDrive\Masaüstü\Proje - Kopya\Proje\obj\Debug\Proje.MusteriSiparisPaneli.resources
